@@ -5,7 +5,7 @@ import React from "react";
 // import {IMAGES} from '../constants/gridGallery';
 // import 'https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js';
 // import 'https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js';
-import '@google/model-viewer';
+import '@google/model-viewer/dist/model-viewer';
 import "@google/model-viewer/dist/model-viewer-legacy";
 
 // const show3dobs = function () {
