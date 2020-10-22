@@ -1,5 +1,5 @@
 import React from "react";
-import '@google/model-viewer';
+// import '@google/model-viewer';
 
 import {Card, CardGroup, Container, Col, Row} from "react-bootstrap";
 import * as ROUTES from "../../constants/routes";

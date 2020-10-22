@@ -6,13 +6,13 @@ import './scss/index.scss';
 
 import App from './App';
 import Firebase, {FirebaseContext} from "./components/Firebase";
+import '@google/model-viewer/dist/model-viewer-legacy';
 
 
 ReactDOM.render(
 
     <React.StrictMode>
       <FirebaseContext.Provider value={new Firebase()}>
-          {/*<LeapProvider options={{enableGestures: true}}>*/}
 
             <App />
 
