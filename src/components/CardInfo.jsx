@@ -3,7 +3,8 @@
 import React from "react";
 // import Gallery from 'react-grid-gallery';
 // import {IMAGES} from '../constants/gridGallery';
-import '@google/model-viewer';
+import 'https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js';
+import 'https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js';
 
 
 // const show3dobs = function () {
