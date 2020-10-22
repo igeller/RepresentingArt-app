@@ -12,7 +12,7 @@ import React from "react";
 //         return(
 //             <model-viewer src={this.props.item.glb} leap-motion ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>hello</model-viewer>
 //         )
-//
+//npm i jq
 //
 // };
 /* the main page for the index route of this app */
